@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I am Thanatos👋
+**Senior Software Engineer | Python & Cloud Enthusiast | Aspiring Data Scientist**
 
-<!--
-**fullstack-dev-web/fullstack-dev-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I have **7+ years of experience** building scalable, production-grade backend services, working extensively with Python, cloud platforms, and modern web frameworks. I am passionate about solving complex problems, optimizing systems, and exploring data-driven solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Professional Summary
+- Experienced in **Python programming**, **cloud computing (AWS)**, and **microservices architecture**.
+- Skilled at designing **REST APIs**, **scalable backend systems**, and end-to-end production workflows.
+- Strong collaboration in **Agile/Scrum teams** and mentoring junior engineers.
+- Transitioning into **Data Science**, with exposure to predictive analytics and data-driven optimization.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages:** Python, JavaScript, TypeScript, SQL  
+**Frameworks & Libraries:** Django, FastAPI, React, Next.js, Node.js  
+**Cloud Platforms:** AWS (Extensive), GCP (Beginner, upskilling)  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+**Dev Practices & Architecture:** Microservices, RESTful APIs, Agile/Scrum, TDD  
+**Observability & Monitoring:** Apache Kafka, Prometheus, Grafana, Sentry, DataDog, AWS CloudWatch  
+**Containerization & Orchestration:** Docker, Kubernetes  
+**Soft Skills:** Technical leadership, mentoring, cross-functional collaboration, communication, fast learner  
+
+---
+
+## 🌱 Currently Exploring
+- Data Science & Machine Learning frameworks
+- Predictive analytics for healthcare and operational domains
+- End-to-end data pipelines and optimization
+
+---
+
+## 📫 Contact Me 
+- **GitHub:** [github.com/fullstack-dev-web](https://github.com/fullstack-dev-web)  
+
+---
+
+## ⚡ Fun Fact
+I love building **scalable applications** and exploring **data-driven solutions**, whether it's backend systems or predictive analytics projects.  
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
