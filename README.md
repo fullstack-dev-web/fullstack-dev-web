@@ -34,7 +34,7 @@ Welcome to my GitHub! I have **7+ years of experience** building scalable, produ
 ---
 
 ## 📫 Contact Me 
-- **GitHub:** [github.com/fullstack-dev-web](https://github.com/fullstack-dev-web)  
+- **GitHub:** [github.com/pythonfullstack](https://github.com/pythonfullstack)  
 
 ---
 
