@@ -17,7 +17,7 @@ Welcome to my GitHub! I have **7+ years of experience** building scalable, produ
 
 **Programming Languages:** Python, JavaScript, TypeScript, Go, SQL  
 **Frameworks & Libraries:** Django, Flask, FastAPI, React, Next.js, Node.js  
-**Cloud Platforms:** AWS, GCP
+**Cloud Platforms:** AWS, GCP  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
 **Dev Practices & Architecture:** Microservices, RESTful APIs, Agile/Scrum, TDD  
 **Observability & Monitoring:** Apache Kafka, Prometheus, Grafana, Sentry, DataDog, AWS CloudWatch  
