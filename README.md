@@ -1,12 +1,12 @@
 # Hi, I am Thanatos👋 
-**Senior Software Engineer | Python & Cloud Enthusiast | Aspiring Data Scientist**
+**Senior Software Engineer | Python, JS/TS, Go & Cloud Enthusiast | Aspiring Data Scientist**
 
 Welcome to my GitHub! I have **7+ years of experience** building scalable, production-grade backend services, working extensively with Python, cloud platforms, and modern web frameworks. I am passionate about solving complex problems, optimizing systems, and exploring data-driven solutions.
 
 ---
 
 ## 🔹 Professional Summary
-- Experienced in **Python programming**, **cloud computing (AWS)**, and **microservices architecture**.
+- Experienced in **Python, JS/TS, Go programming**, **cloud computing (AWS)**, and **microservices architecture**.
 - Skilled at designing **REST APIs**, **scalable backend systems**, and end-to-end production workflows.
 - Strong collaboration in **Agile/Scrum teams** and mentoring junior engineers.
 - Transitioning into **Data Science**, with exposure to predictive analytics and data-driven optimization.
