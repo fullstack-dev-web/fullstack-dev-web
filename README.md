@@ -15,7 +15,7 @@ Welcome to my GitHub! I have **10+ years of experience** building scalable, prod
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** Python, JavaScript, TypeScript, Go, SQL  
+**Programming Languages:** Python, JavaScript, TypeScript, Rust, Go, SQL  
 **Frameworks & Libraries:** Django, Flask, FastAPI, React, Next.js, Node.js  
 **Cloud Platforms:** AWS, GCP  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
